@@ -11,6 +11,12 @@ A complete machine learning project demonstrating how to build, train, and deplo
 
 This project showcases a complete machine learning workflow from model training to production deployment. We use the classic Iris dataset to build a Random Forest classifier that predicts iris flower species based on their physical characteristics, then serve it via a Flask REST API.
 
+<p align="center">
+  <img src="assets/postman.png" width="100%" alt="Postman"><br>
+  <em>Successful API Request and Response in Postman</em>
+</p>
+
+
 ## 🎯 Features
 
 - **Machine Learning Pipeline**: Complete workflow from data loading to model training
