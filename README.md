@@ -56,7 +56,7 @@ API_MLmodel/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mehardeep79/Iris-Classification-API-ML-model.git
    cd API_MLmodel
    ```
 
